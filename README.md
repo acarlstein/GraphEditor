@@ -1,20 +1,26 @@
 # GraphEditor
+
 GraphEditor is a open source graph editor, built on JavaScript, with the purpose of making 
 the learning of TSP-problem solving algorithms fun to learn.
 
-#Documentation
+##Documentation
+
 [Documentation](documetation/DOCUMENTATION.md)
 
-#Prerequisites
+##Prerequisites
+
 Any browser supporting ECMAScript 7
 
-#License
+##License
+
 [GNU General Public License](LICENSE.md)
 
-#Disclaimer
+##Disclaimer
+
 [Disclaimer](DISCLAIMER.md)
 
-#Author(s)
+##Author(s)
+
 - Alejandro G. Carlstein Ramos Mejia [a link](http://www.acarlstein.com)
 
-#Collaborator(s)
+##Collaborator(s)
