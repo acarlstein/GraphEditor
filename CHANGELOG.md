@@ -1,4 +1,6 @@
-﻿# 0.0.0
+﻿# CHANGELOG
+
+## 0.0.0
 Including basic documentation to project.
 - README.md
 - LICENSE.md
