@@ -26,7 +26,7 @@ Any browser supporting ECMAScript 7
 ## Author(s)
 
 - Alejandro G. Carlstein Ramos Mejia
--- [Blog] (http://www.acarlstein.com)
--- [LinkedIn](https://www.linkedin.com/in/acarlstein/)
+	- [Blog](http://www.acarlstein.com)
+	- [LinkedIn](https://www.linkedin.com/in/acarlstein/)
 
 ## Collaborator(s) / Contributor(s)
