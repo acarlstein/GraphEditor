@@ -17,7 +17,7 @@ Any browser supporting ECMAScript 7
 
 ## License
 
-[GNU General Public License](LICENSE.md)
+[GNU General Public License v3.0](LICENSE.md)
 
 ## Disclaimer
 
