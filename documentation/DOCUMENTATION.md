@@ -1,6 +1,6 @@
 ﻿# Documentation
 
-- [User Guide](documentation/userGuide/USER_GUIDE.md)
-- [Project Documentation](documentation/project/PROJECT.md)
+- [User Guide](userGuide/USER_GUIDE.md)
+- [Project Documentation](project/PROJECT.md)
 
 ## Q&A

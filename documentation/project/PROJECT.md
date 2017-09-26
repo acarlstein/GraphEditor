@@ -25,9 +25,9 @@ If you can provide images, videos and such, use them. Make things easier to your
 
 ## Brainstorming
 
-[Brainstoriming](documentation/project/BRAINSTORMING.md)
+[Brainstoriming](BRAINSTORMING.md)
 
 ## TODO
 
-[TODO](documentation/project/TODO.md)
+[TODO](TODO.md)
 
